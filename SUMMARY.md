@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Read Me](README.md)
+* Basics
+  * Spaces
+  * Sources
+  * Transforms
+  * Entrypoints
 

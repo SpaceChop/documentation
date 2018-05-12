@@ -1,8 +1,10 @@
 ---
-description: Hello hello hello.
+description: >-
+  SpaceChop is a service for managing and optimizing images for use in apps and
+  websites.
 ---
 
-# Initial page
+# Read Me
 
 Hello
 
