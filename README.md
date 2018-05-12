@@ -6,7 +6,7 @@ description: >-
 
 # Spacechop
 
-The best way to discover SpaceChop is to try it out. **Learn more about SpaceChop **in the following introduction:
+The best way to discover SpaceChop is to try it out. **Learn more about SpaceChop** in the following introduction:
 
 {% page-ref page="getting-started/" %}
 
