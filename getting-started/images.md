@@ -1,7 +1,3 @@
----
-description: Images can be uploaded to SpaceChop directly or fetched from a remote source.
----
-
 # Images
 
 Rocket Boosters are currently serving the original images on their website for all users. Instead of having to upload all the images to SpaceChop we will fetch the originals from Rocket Boosters website when they're requested.

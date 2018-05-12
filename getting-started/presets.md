@@ -1,9 +1,3 @@
----
-description: >-
-  A preset tells SpaceChop how to transform your images to fit your users
-  devices.
----
-
 # Presets
 
 Rocket Boosters serves most of their images on is their product listing page. Their site is mostly visited from two different types of devices; smartphones and desktop. The product images on this page are displayed as 200x200px on smartphones and 600x600px on desktop.

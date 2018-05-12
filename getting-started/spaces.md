@@ -1,7 +1,3 @@
----
-description: One website or app commonly corresponds to one space.
----
-
 # Spaces
 
 We start by creating a space for Rocket Booster Inc. 

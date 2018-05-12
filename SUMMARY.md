@@ -6,7 +6,7 @@
   * [Images](getting-started/images.md)
   * [Presets](getting-started/presets.md)
   * [Transforms](getting-started/transforms.md)
-  * [Zones](getting-started/entrypoints.md)
+  * [Zones](getting-started/zones.md)
   * [Summary](getting-started/summary.md)
 * [Zones](zones.md)
 * [Sources](sources.md)
