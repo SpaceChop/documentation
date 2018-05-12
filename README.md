@@ -10,5 +10,7 @@ The best way to discover SpaceChop is to try it out. **Learn more about SpaceCho
 
 {% page-ref page="getting-started/" %}
 
+{% embed data="{\"url\":\"https://now-examples-slackin-sofetwsrgc.now.sh/badge.svg\",\"type\":\"link\"}" %}
+
 
 
