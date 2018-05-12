@@ -1,13 +1,13 @@
 # Table of contents
 
 * [Read Me](README.md)
-* [Introduction](introduction/README.md)
-  * [Spaces](introduction/spaces.md)
-  * [Images](introduction/images.md)
-  * [Presets](introduction/presets.md)
-  * [Transforms](introduction/transforms.md)
-  * [Zones](introduction/entrypoints.md)
-  * [Sources](introduction/sources.md)
+* [Getting started](getting-started/README.md)
+  * [Spaces](getting-started/spaces.md)
+  * [Images](getting-started/images.md)
+  * [Sources](getting-started/sources.md)
+  * [Presets](getting-started/presets.md)
+  * [Transforms](getting-started/transforms.md)
+  * [Zones](getting-started/entrypoints.md)
 * [Zones](zones.md)
 * [Change Log](change-log.md)
 
