@@ -14,4 +14,4 @@ The best way to discover SpaceChop is to try it out. **Learn more about SpaceCho
 
 
 
-[Slack badge](https://now-examples-slackin-sofetwsrgc.now.sh/badge.svg)
+![Slack badge](https://now-examples-slackin-sofetwsrgc.now.sh/badge.svg)
