@@ -7,6 +7,7 @@
   * [Presets](getting-started/presets.md)
   * [Transforms](getting-started/transforms.md)
   * [Zones](getting-started/entrypoints.md)
+  * [Summary](getting-started/summary.md)
 * [Zones](zones.md)
 * [Sources](sources.md)
 * [Change Log](change-log.md)

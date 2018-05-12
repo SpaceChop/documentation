@@ -16,5 +16,5 @@ With this information we can create presets that match these sizes. For smartpho
 
 
 
-
+![Rocket Boosters new presets](../.gitbook/assets/ska-rmavbild-2018-05-12-kl.-15.33.01.png)
 
