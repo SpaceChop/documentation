@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Read Me](README.md)
-* Basics
+* Introduction
   * Spaces
   * Sources
   * Transforms
   * Entrypoints
+* [Change Log](change-log.md)
 
