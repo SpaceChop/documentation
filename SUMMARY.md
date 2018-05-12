@@ -3,7 +3,7 @@
 * [Read Me](README.md)
 * Introduction
   * Spaces
-  * Zones
+  * [Zones](introduction/zones.md)
   * Sources
   * Transforms
   * Entrypoints
