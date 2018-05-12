@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Read Me](README.md)
+* [Spacechop](README.md)
 * [Getting started](getting-started/README.md)
   * [Spaces](getting-started/spaces.md)
   * [Images](getting-started/images.md)
